@@ -6,4 +6,5 @@ package com.example.yiruy.testgithub;
 
 public class B {
     private int x;
+    private int y;
 }
